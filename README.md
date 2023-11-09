@@ -51,10 +51,9 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
-
 ## Output:
 
-![image](https://github.com/ShanmathiShanmugam/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121243595/b228ebb7-0964-47bb-b27d-3850d1a881a7)
+![image](https://github.com/ShanmathiShanmugam/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121243595/b55cd932-8c7b-4f52-a5d3-9cbc880073bc)
 
 ### Name: S.Shanmathi
 ### Register Number: 212222100049
